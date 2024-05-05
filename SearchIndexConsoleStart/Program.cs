@@ -14,8 +14,8 @@ class Program
     static void Main(string[] args)
     {
         // Info from my Azure Portal
-        string serviceName = "azure-search-demo";
-        string apiKey = "BnKvEo0tIarB0UGWTuD14M0gwm0FJgGERVH6kzANHxAzSeB59L99";
+        string serviceName = "Update Service Name";
+        string apiKey = "Update Key";
         string indexName = "hotels-search";
 
         // ///////////////////////////////////////////////////////////////////////////////////
